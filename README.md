@@ -10,6 +10,10 @@
 
 📮 How to reach me: [LinkedIn](https://www.linkedin.com/in/maxine-ramos/)
 
+-
+
+⬇️ Check out my pinned projects to take a peek into my data science storytelling journey!
+
 <!--
 **mxnrms/mxnrms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
