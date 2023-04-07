@@ -8,7 +8,7 @@
 
 🌱 I'm currently learning how to model and struggling.
 
-📮 How to reach me: [LinkedIn](https://www.linkedin.com/in/maxine-ramos/)
+📮 How to reach me: [LinkedIn](https://www.linkedin.com/in/maxine-ramos/), [Email](maxine.amr@gmail.com)
 
 ~
 
