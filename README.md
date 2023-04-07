@@ -6,9 +6,9 @@
 
 🔭 I'm currently working on [Children's Vocabulary Development in American Sign Language](https://github.com/mxnrms/Children_Vocab_Development).
 
-🌱 I'm currently learning how to model and struggling.
+🌱 I'm currently learning how to model in R and struggling.
 
-📮 How to reach me: [LinkedIn](https://www.linkedin.com/in/maxine-ramos/), [Email](maxine.amr@gmail.com)
+📮 How to reach me: [LinkedIn](https://www.linkedin.com/in/maxine-ramos/)
 
 ~
 
