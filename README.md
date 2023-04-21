@@ -2,11 +2,11 @@
 
 🔮 I'm Aliyah, but please call me **Maxine**!
 
-📝 I'm currently working towards a **Bachelor of Information** with concentration in **UX Design** at the **University of Toronto**.
+📝 I'm currently working towards a **Bachelor of Information** with a concentration in **UX Design** at the **University of Toronto**.
 
 ![](https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1)
 
-🔭 I'm currently working on [Children's Vocabulary Development in American Sign Language](https://github.com/mxnrms/Children_Vocab_Development).
+🔭 I recently completed a paper, [Children's Vocabulary Development in American Sign Language](https://github.com/mxnrms/Children_Vocab_Development).
 
 🌱 I'm currently learning how to model in R and struggling.
 
